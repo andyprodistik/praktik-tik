@@ -28,16 +28,16 @@
       "tags": "website, haxtheweb, hax"
     },
     "theme": {
-      "element": "clean-one",
-      "path": "@lrnwebcomponents/clean-one/clean-one.js",
-      "name": "Clean course theme",
+      "element": "brutal-hax-theme",
+      "path": "custom/build/custom.es6.js",
+      "name": "Brutal Theme",
       "thumbnail": "build/es6/node_modules/@lrnwebcomponents/app-hax/lib/assets/images/BlueStyle.svg",
       "variables": {
         "image": "",
         "imageAlt": "",
         "imageLink": "",
-        "hexCode": "#aeff00",
-        "cssVariable": "--simple-colors-default-theme-deep-purple-7",
+        "hexCode": "#000000",
+        "cssVariable": "--brutal-accent",
         "icon": "hax:wizard-hat"
       },
       "regions": {}
